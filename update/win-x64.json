@@ -1,0 +1,10 @@
+{
+  "chromium_version": "158.0.8127.37",
+  "platform": "win-x64",
+  "schema": 1,
+  "sequence": 8,
+  "sha256": "ab6cabaeb0ce71cd11712c7d6dedf15f481a5ac4fa4c8b0e0424b1730795311e",
+  "size": 143962624,
+  "url": "https://github.com/0xSnww/zeus-releases/releases/download/zeus-win-8/Zeus-0.1.7-win-x64-8.exe",
+  "version": "0.1.7"
+}
